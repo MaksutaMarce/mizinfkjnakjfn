@@ -20,7 +20,7 @@ from telegram.ext import (
 )
 
 # ========== КОНФИГУРАЦИЯ ==========
-TOKEN = "8020809344:AAFHBnmeCz6Alap_Fnyy1W0AEiDJ8KuTbxg"
+TOKEN = "8020809344:AAHatpQ4xtpI9jYV_3WOcBbxkU3XhHsj6oE"
 ADMIN_IDS = [6392591727]
 CHANNEL_ID = "-1003275553562"
 DEPOSIT_FIXED = 500  # Фиксированная предоплата 500 рублей
